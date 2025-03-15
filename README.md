@@ -7,5 +7,3 @@
 - 📚 Always learning new ML/DL techniques and exploring AI research
 
 
-## 🌱 Let's Connect!
-[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ahmed-gheyas-6a62442a0/)
