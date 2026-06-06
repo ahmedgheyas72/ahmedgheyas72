@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Gheyas</h1>
 
 <p align="center">
-  Computer Engineering graduate moving into <b>defensive security</b> — I build security tooling, automate the repetitive, and dig into how systems break.
+  Computer Engineering graduate moving into <b>defensive security</b> - I build security tooling, automate the repetitive, and dig into how systems break.
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ### 🛡️ About
 
-- 🎯 Targeting **SOC Analyst / Blue Team** roles — detection, triage, and response.
+- 🎯 Targeting **SOC Analyst / Blue Team** roles - detection, triage, and response.
 - 🔧 Currently building **SOC tooling** and working through structured lab work (TryHackMe SOC Level 1).
 - 📚 Studying for **CompTIA Security+ (SY0-701)**.
-- 💻 Background in backend engineering (Python, Java/Spring Boot) and Azure cloud — I like building the thing *and* securing it.
+- 💻 Background in backend engineering (Python, Java/Spring Boot) and Azure cloud - I like building the thing *and* securing it.
 
 ---
 
@@ -44,12 +44,3 @@ A REST API that automates the IOC triage an L1 analyst does by hand — submit a
 **🏙️ [UrbanGrid — Smart Urban Resources Platform](https://github.com/ahmedgheyas72/YOUR-REPO)**
 Multi-microservice Spring Boot platform with JWT auth, role-based access control, and hardened Azure infrastructure (VNet isolation, NSG rules, private PostgreSQL). Built across a four-person team.
 `Java` · `Spring Boot` · `React` · `PostgreSQL` · `Azure`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedgheyas72&show_icons=true&hide_border=true&theme=graywhite" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgheyas72&layout=compact&hide_border=true&theme=graywhite" alt="top langs" height="160"/>
-</p>
