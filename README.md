@@ -37,7 +37,7 @@
 
 ### 🚀 Featured Projects
 
-**🔎 [IOC Aggregation & Reputation Engine](https://github.com/ahmedgheyas72/YOUR-REPO)**
+**🔎 [IOC Aggregation & Reputation Engine](https://github.com/ahmedgheyas72/IOC-Enrichment-Threat-Intelligence-API)**
 A REST API that automates the IOC triage an L1 analyst does by hand — submit an IP, domain, hash, or URL and get a single aggregated reputation verdict. Integrates five threat-intel sources, normalizes conflicting scores, caches with Redis to respect rate limits, and ships on Azure via Docker + GitHub Actions CI/CD.
 `Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker` · `Azure`
 
