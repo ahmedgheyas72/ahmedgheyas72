@@ -41,6 +41,6 @@
 A REST API that automates the IOC triage an L1 analyst does by hand — submit an IP, domain, hash, or URL and get a single aggregated reputation verdict. Integrates five threat-intel sources, normalizes conflicting scores, caches with Redis to respect rate limits, and ships on Azure via Docker + GitHub Actions CI/CD.
 `Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker` · `Azure`
 
-**🏙️ [UrbanGrid — Smart Urban Resources Platform](https://github.com/ahmedgheyas72/YOUR-REPO)**
+**🏙️ [UrbanGrid - Smart Urban Resources Platform](https://github.com/ahmedgheyas72/Smart-Urban-Resources-Platform)**
 Multi-microservice Spring Boot platform with JWT auth, role-based access control, and hardened Azure infrastructure (VNet isolation, NSG rules, private PostgreSQL). Built across a four-person team.
 `Java` · `Spring Boot` · `React` · `PostgreSQL` · `Azure`
